@@ -20,12 +20,13 @@ A modern AI chatbot built with **React**, **Vite**, **Tailwind CSS**, and the **
 ## Light Mode
 
 <p align="center">
-  <img src="src/assets/images/lightmode.png" width="900">
+  <img src="src/assets/Images/lightmode.png" width="900">
 </p>
+
 ## Dark Mode
 
 <p align="center">
-  <img src="src/assets/images/darkmode.png" width="900">
+  <img src="src/assets/Images/darkmode.png" width="900">
 </p>
 ![Light mode](src/assets/images/lightmode.png)
 ![Dark mode](src/assets/images/darkmode.png)
