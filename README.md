@@ -6,7 +6,7 @@ A modern AI chatbot built with **React**, **Vite**, **Tailwind CSS**, and the **
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** https://your-live-link.vercel.app
+🔗 **Live Website:** https://lumina-ai-chatbot-reactjs.netlify.app/
 
 
 ---
@@ -28,7 +28,7 @@ A modern AI chatbot built with **React**, **Vite**, **Tailwind CSS**, and the **
 <p align="center">
   <img src="src/assets/Images/darkmode.png" width="900">
 </p>
-    
+
 
 ---
 
