@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+:root {
+  font-family: Inter, system-ui, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #0f172a;
+  background: #f1f5f9;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+[data-theme="dark"] {
+  color: #f8fafc;
+  background: #020617;
+}
+
+textarea {
+  font: inherit;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .chatbot-container {
+    min-width: 100%;
+  }
+}
