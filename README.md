@@ -8,7 +8,6 @@ A modern AI chatbot built with **React**, **Vite**, **Tailwind CSS**, and the **
 
 🔗 **Live Website:** https://your-live-link.vercel.app
 
-🎥 **Demo Video:** https://your-video-link
 
 ---
 
@@ -19,7 +18,7 @@ A modern AI chatbot built with **React**, **Vite**, **Tailwind CSS**, and the **
 ## 📸 Screenshots
 
 ![Light mode](src/assets/images/lightmode.png)
-![Dark mode](src/assets/images/lightmode.png)
+![Dark mode](src/assets/images/darkmode.png)
 
 ---
 
@@ -87,7 +86,7 @@ src/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/lumina-ai-chatbot.git
+git clone https://github.com/farheenayy33/Lumina-AI-Chatbot.git
 ```
 
 Move into the project
@@ -162,7 +161,7 @@ LinkedIn:
 www.linkedin.com/in/farheen-laraib-943ba9404
 
 Portfolio:
-portfolio-ruddy-five-80.vercel.app 
+https://portfolio-ruddy-five-80.vercel.app/
 
 ---
 
