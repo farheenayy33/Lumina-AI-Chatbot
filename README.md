@@ -159,13 +159,10 @@ GitHub:
 https://github.com/farheenayy33
 
 LinkedIn:
-(Add your LinkedIn)
+www.linkedin.com/in/farheen-laraib-943ba9404
 
 Portfolio:
-(Add your Portfolio)
+portfolio-ruddy-five-80.vercel.app 
 
 ---
 
-## ⭐ Show your support
-
-If you like this project, consider giving it a ⭐ on GitHub!
